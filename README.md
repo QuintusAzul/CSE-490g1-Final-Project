@@ -1,4 +1,4 @@
-# CSE-490g1-Final-Project
+# Tweet Imitation
 Team member: Tim Li, Xun Cao
 
 ![scale=0.5](fake_2.png)
