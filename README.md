@@ -39,7 +39,8 @@ Thus, we performed a Welch Two Sample t-test on the given statistics. The result
 Thus, at the significant level of 0.05, since p-value>0.05, there are statistically signficant evidence that support the alternative hypothesis that people cannot identify real and fake tweets with great accuracy.
 
 
-## Examples - images/text/live demo, anything to show off your work
+## Examples:
+[Demo notebook (Instructions are including in the notebook)](Final_Project_Live_Demo.ipynb)
 
 ## Video - a 2-3 minute long video where you explain your project and the above information
 
