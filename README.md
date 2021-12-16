@@ -43,7 +43,8 @@ Thus, at the significant level of 0.05, since p-value>0.05, there are statistica
 [Demo notebook (Instructions are including in the notebook)](Final_Project_Live_Demo.ipynb)
 
 ## Video
-https://drive.google.com/file/d/1Ck1phwUtmWRQqGQHhSGV_WoGPhsJoQON/view?usp=sharing
+https://drive.google.com/file/d/1i2C8fSzf-wwBTs4Cpy5YuYtXGTqGLpel/view?usp=sharing
+
 
 ## References:
 
